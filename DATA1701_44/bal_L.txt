@@ -1,0 +1,401 @@
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:16:16 - 032ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:17 - 746ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.891250967979431
+Bytes:  4
+Param Data:
+0x00, 	0x72, 	0x14, 	0x83
+
+
+Safeload Write
+Time:  10:16:17 - 746ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:18 - 511ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Safeload Write
+Time:  10:16:18 - 511ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:19 - 152ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x9D, 	0xF8
+
+
+Safeload Write
+Time:  10:16:19 - 152ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:19 - 652ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.630957365036011
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0xC3, 	0x36
+
+
+Safeload Write
+Time:  10:16:19 - 652ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:20 - 089ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.562341332435608
+Bytes:  4
+Param Data:
+0x00, 	0x47, 	0xFA, 	0xCD
+
+
+Safeload Write
+Time:  10:16:20 - 089ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:20 - 511ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.501187205314636
+Bytes:  4
+Param Data:
+0x00, 	0x40, 	0x26, 	0xE7
+
+
+Safeload Write
+Time:  10:16:20 - 511ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:20 - 995ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.446683645248413
+Bytes:  4
+Param Data:
+0x00, 	0x39, 	0x2C, 	0xEE
+
+
+Safeload Write
+Time:  10:16:20 - 995ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:21 - 652ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.398107171058655
+Bytes:  4
+Param Data:
+0x00, 	0x32, 	0xF5, 	0x2D
+
+
+Safeload Write
+Time:  10:16:21 - 652ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:22 - 183ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.35481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x6A, 	0x86
+
+
+Safeload Write
+Time:  10:16:22 - 183ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:16:22 - 870ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1target
+Param Address:  0x0009
+Param Value:  0.316227793693542
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x7A, 	0x27
+
+
+Safeload Write
+Time:  10:16:22 - 870ms
+IC:  IC 1
+Cell Name:  balance_L
+Param Name:  SWGain1940DBAlg1step
+Param Address:  0x000A
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+

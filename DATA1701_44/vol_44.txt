@@ -1,0 +1,4273 @@
+Safeload Write
+Time:  10:11:12 - 202ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000141263008117676
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x04, 	0xA1
+
+
+Safeload Write
+Time:  10:11:12 - 202ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:12 - 202ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000141263008117676
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x04, 	0xA1
+
+
+Safeload Write
+Time:  10:11:12 - 202ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:17 - 879ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000158548355102539
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x05, 	0x32
+
+
+Safeload Write
+Time:  10:11:17 - 879ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:17 - 894ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000158548355102539
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x05, 	0x32
+
+
+Safeload Write
+Time:  10:11:17 - 894ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:18 - 566ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000177860260009766
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x05, 	0xD4
+
+
+Safeload Write
+Time:  10:11:18 - 583ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:18 - 585ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000177860260009766
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x05, 	0xD4
+
+
+Safeload Write
+Time:  10:11:18 - 587ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 116ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000199556350708008
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x06, 	0x8A
+
+
+Safeload Write
+Time:  10:11:19 - 116ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 116ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000199556350708008
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x06, 	0x8A
+
+
+Safeload Write
+Time:  10:11:19 - 116ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 239ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:19 - 239ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 239ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:19 - 239ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 426ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000251173973083496
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x3B
+
+
+Safeload Write
+Time:  10:11:19 - 426ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 426ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000251173973083496
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x3B
+
+
+Safeload Write
+Time:  10:11:19 - 426ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 442ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:19 - 442ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 442ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:19 - 442ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 864ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000281810760498047
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x09, 	0x3C
+
+
+Safeload Write
+Time:  10:11:19 - 864ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 864ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000281810760498047
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x09, 	0x3C
+
+
+Safeload Write
+Time:  10:11:19 - 864ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 926ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000316262245178223
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0A, 	0x5D
+
+
+Safeload Write
+Time:  10:11:19 - 926ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:19 - 926ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000316262245178223
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0A, 	0x5D
+
+
+Safeload Write
+Time:  10:11:19 - 942ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 410ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000354766845703125
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0B, 	0xA0
+
+
+Safeload Write
+Time:  10:11:20 - 410ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 410ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000354766845703125
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0B, 	0xA0
+
+
+Safeload Write
+Time:  10:11:20 - 410ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 473ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 473ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 473ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 473ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 582ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000446677207946777
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0E, 	0xA3
+
+
+Safeload Write
+Time:  10:11:20 - 582ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 582ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000446677207946777
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0E, 	0xA3
+
+
+Safeload Write
+Time:  10:11:20 - 582ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 582ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 598ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 598ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 598ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000446677207946777
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0E, 	0xA3
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000446677207946777
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0E, 	0xA3
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000398159027099609
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x0D, 	0x0C
+
+
+Safeload Write
+Time:  10:11:20 - 973ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 020ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000501155853271484
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x10, 	0x6C
+
+
+Safeload Write
+Time:  10:11:21 - 020ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 020ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000501155853271484
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x10, 	0x6C
+
+
+Safeload Write
+Time:  10:11:21 - 020ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 301ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000562310218811035
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x12, 	0x6D
+
+
+Safeload Write
+Time:  10:11:21 - 301ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 301ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000562310218811035
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x12, 	0x6D
+
+
+Safeload Write
+Time:  10:11:21 - 301ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 504ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000630974769592285
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x14, 	0xAD
+
+
+Safeload Write
+Time:  10:11:21 - 504ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 504ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000630974769592285
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x14, 	0xAD
+
+
+Safeload Write
+Time:  10:11:21 - 504ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 566ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00070798397064209
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x17, 	0x33
+
+
+Safeload Write
+Time:  10:11:21 - 566ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 566ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00070798397064209
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x17, 	0x33
+
+
+Safeload Write
+Time:  10:11:21 - 566ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 832ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000794291496276855
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1A, 	0x07
+
+
+Safeload Write
+Time:  10:11:21 - 832ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:21 - 832ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000794291496276855
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1A, 	0x07
+
+
+Safeload Write
+Time:  10:11:21 - 832ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 176ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.000891208648681641
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1D, 	0x34
+
+
+Safeload Write
+Time:  10:11:22 - 176ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 191ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.000891208648681641
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x1D, 	0x34
+
+
+Safeload Write
+Time:  10:11:22 - 191ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 300ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0010000467300415
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x20, 	0xC5
+
+
+Safeload Write
+Time:  10:11:22 - 300ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 300ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0010000467300415
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x20, 	0xC5
+
+
+Safeload Write
+Time:  10:11:22 - 300ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 675ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00112199783325195
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x24, 	0xC4
+
+
+Safeload Write
+Time:  10:11:22 - 675ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 675ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00112199783325195
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x24, 	0xC4
+
+
+Safeload Write
+Time:  10:11:22 - 675ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 972ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0012589693069458
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x29, 	0x41
+
+
+Safeload Write
+Time:  10:11:22 - 972ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:22 - 972ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0012589693069458
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x29, 	0x41
+
+
+Safeload Write
+Time:  10:11:22 - 972ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 144ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00141251087188721
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x2E, 	0x49
+
+
+Safeload Write
+Time:  10:11:23 - 144ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00141251087188721
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x2E, 	0x49
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0012589693069458
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x29, 	0x41
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0012589693069458
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x29, 	0x41
+
+
+Safeload Write
+Time:  10:11:23 - 160ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 175ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00158488750457764
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x33, 	0xEF
+
+
+Safeload Write
+Time:  10:11:23 - 175ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 175ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00158488750457764
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x33, 	0xEF
+
+
+Safeload Write
+Time:  10:11:23 - 175ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 456ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.001778244972229
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x3A, 	0x45
+
+
+Safeload Write
+Time:  10:11:23 - 456ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 472ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.001778244972229
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x3A, 	0x45
+
+
+Safeload Write
+Time:  10:11:23 - 472ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 644ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00199520587921143
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x41, 	0x61
+
+
+Safeload Write
+Time:  10:11:23 - 644ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 644ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00199520587921143
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x41, 	0x61
+
+
+Safeload Write
+Time:  10:11:23 - 644ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 706ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x49, 	0x5C
+
+
+Safeload Write
+Time:  10:11:23 - 706ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 706ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00223875045776367
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x49, 	0x5C
+
+
+Safeload Write
+Time:  10:11:23 - 706ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 988ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00251185894012451
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x52, 	0x4F
+
+
+Safeload Write
+Time:  10:11:23 - 988ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:23 - 988ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00251185894012451
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x52, 	0x4F
+
+
+Safeload Write
+Time:  10:11:23 - 988ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 113ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00281834602355957
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x5C, 	0x5A
+
+
+Safeload Write
+Time:  10:11:24 - 113ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 113ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00281834602355957
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x5C, 	0x5A
+
+
+Safeload Write
+Time:  10:11:24 - 113ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 456ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00316226482391357
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x67, 	0x9F
+
+
+Safeload Write
+Time:  10:11:24 - 456ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 472ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00316226482391357
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x67, 	0x9F
+
+
+Safeload Write
+Time:  10:11:24 - 472ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 597ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00354814529418945
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x74, 	0x44
+
+
+Safeload Write
+Time:  10:11:24 - 597ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 597ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00354814529418945
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x74, 	0x44
+
+
+Safeload Write
+Time:  10:11:24 - 597ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00398111343383789
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x82, 	0x74
+
+
+Safeload Write
+Time:  10:11:24 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00398111343383789
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x82, 	0x74
+
+
+Safeload Write
+Time:  10:11:24 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 909ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00446689128875732
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x92, 	0x5F
+
+
+Safeload Write
+Time:  10:11:24 - 909ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:24 - 925ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00446689128875732
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x92, 	0x5F
+
+
+Safeload Write
+Time:  10:11:24 - 925ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0050119161605835
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xA4, 	0x3B
+
+
+Safeload Write
+Time:  10:11:25 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0050119161605835
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xA4, 	0x3B
+
+
+Safeload Write
+Time:  10:11:25 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 269ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.005623459815979
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xB8, 	0x45
+
+
+Safeload Write
+Time:  10:11:25 - 269ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 269ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.005623459815979
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xB8, 	0x45
+
+
+Safeload Write
+Time:  10:11:25 - 269ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 316ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0063096284866333
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xCE, 	0xC1
+
+
+Safeload Write
+Time:  10:11:25 - 316ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 316ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0063096284866333
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xCE, 	0xC1
+
+
+Safeload Write
+Time:  10:11:25 - 316ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00707948207855225
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xE7, 	0xFB
+
+
+Safeload Write
+Time:  10:11:25 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:25 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00707948207855225
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0xE7, 	0xFB
+
+
+Safeload Write
+Time:  10:11:25 - 847ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00794327259063721
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x04, 	0x49
+
+
+Safeload Write
+Time:  10:11:26 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 034ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00794327259063721
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x04, 	0x49
+
+
+Safeload Write
+Time:  10:11:26 - 050ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00891256332397461
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x24, 	0x0C
+
+
+Safeload Write
+Time:  10:11:26 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00891256332397461
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x24, 	0x0C
+
+
+Safeload Write
+Time:  10:11:26 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 284ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.00999999046325684
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x47, 	0xAE
+
+
+Safeload Write
+Time:  10:11:26 - 284ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 284ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.00999999046325684
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x47, 	0xAE
+
+
+Safeload Write
+Time:  10:11:26 - 284ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 722ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:26 - 722ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 722ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:26 - 722ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:26 - 800ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 050ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0141253471374512
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0xCE, 	0xDC
+
+
+Safeload Write
+Time:  10:11:27 - 050ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 050ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0141253471374512
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0xCE, 	0xDC
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:27 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0141253471374512
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0xCE, 	0xDC
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0141253471374512
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0xCE, 	0xDC
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0125892162322998
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x9C, 	0x86
+
+
+Safeload Write
+Time:  10:11:27 - 097ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0112202167510986
+Bytes:  4
+Param Data:
+0x00, 	0x01, 	0x6F, 	0xAA
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0158488750457764
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0158488750457764
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x07, 	0x56
+
+
+Safeload Write
+Time:  10:11:27 - 112ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 315ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0177828073501587
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x46, 	0xB5
+
+
+Safeload Write
+Time:  10:11:27 - 315ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 315ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0177828073501587
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x46, 	0xB5
+
+
+Safeload Write
+Time:  10:11:27 - 315ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 534ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.019952654838562
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x8D, 	0xCF
+
+
+Safeload Write
+Time:  10:11:27 - 550ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 550ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.019952654838562
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0x8D, 	0xCF
+
+
+Safeload Write
+Time:  10:11:27 - 550ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 643ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0223872661590576
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0xDD, 	0x96
+
+
+Safeload Write
+Time:  10:11:27 - 643ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:27 - 643ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0223872661590576
+Bytes:  4
+Param Data:
+0x00, 	0x02, 	0xDD, 	0x96
+
+
+Safeload Write
+Time:  10:11:27 - 643ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0251188278198242
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x37, 	0x18
+
+
+Safeload Write
+Time:  10:11:28 - 065ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 081ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0251188278198242
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x37, 	0x18
+
+
+Safeload Write
+Time:  10:11:28 - 081ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 128ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0281838178634644
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x9B, 	0x87
+
+
+Safeload Write
+Time:  10:11:28 - 128ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 128ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0281838178634644
+Bytes:  4
+Param Data:
+0x00, 	0x03, 	0x9B, 	0x87
+
+
+Safeload Write
+Time:  10:11:28 - 128ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 206ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0316227674484253
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x0C, 	0x37
+
+
+Safeload Write
+Time:  10:11:28 - 206ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 221ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0316227674484253
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x0C, 	0x37
+
+
+Safeload Write
+Time:  10:11:28 - 221ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 331ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.035481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x8A, 	0xA7
+
+
+Safeload Write
+Time:  10:11:28 - 331ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 331ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.035481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x04, 	0x8A, 	0xA7
+
+
+Safeload Write
+Time:  10:11:28 - 331ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 409ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0398106575012207
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0x18, 	0x84
+
+
+Safeload Write
+Time:  10:11:28 - 409ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 409ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0398106575012207
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0x18, 	0x84
+
+
+Safeload Write
+Time:  10:11:28 - 409ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 440ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0446683168411255
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0xB7, 	0xB1
+
+
+Safeload Write
+Time:  10:11:28 - 440ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 440ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0446683168411255
+Bytes:  4
+Param Data:
+0x00, 	0x05, 	0xB7, 	0xB1
+
+
+Safeload Write
+Time:  10:11:28 - 440ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0501186847686768
+Bytes:  4
+Param Data:
+0x00, 	0x06, 	0x6A, 	0x4A
+
+
+Safeload Write
+Time:  10:11:28 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0501186847686768
+Bytes:  4
+Param Data:
+0x00, 	0x06, 	0x6A, 	0x4A
+
+
+Safeload Write
+Time:  10:11:28 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 799ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0562341213226318
+Bytes:  4
+Param Data:
+0x00, 	0x07, 	0x32, 	0xAE
+
+
+Safeload Write
+Time:  10:11:28 - 799ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 799ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0562341213226318
+Bytes:  4
+Param Data:
+0x00, 	0x07, 	0x32, 	0xAE
+
+
+Safeload Write
+Time:  10:11:28 - 799ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 831ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0630956888198853
+Bytes:  4
+Param Data:
+0x00, 	0x08, 	0x13, 	0x85
+
+
+Safeload Write
+Time:  10:11:28 - 831ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:28 - 831ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0630956888198853
+Bytes:  4
+Param Data:
+0x00, 	0x08, 	0x13, 	0x85
+
+
+Safeload Write
+Time:  10:11:28 - 831ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 143ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x09, 	0x0F, 	0xCC
+
+
+Safeload Write
+Time:  10:11:29 - 143ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 143ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x09, 	0x0F, 	0xCC
+
+
+Safeload Write
+Time:  10:11:29 - 143ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 206ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0794328451156616
+Bytes:  4
+Param Data:
+0x00, 	0x0A, 	0x2A, 	0xDB
+
+
+Safeload Write
+Time:  10:11:29 - 221ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 221ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0794328451156616
+Bytes:  4
+Param Data:
+0x00, 	0x0A, 	0x2A, 	0xDB
+
+
+Safeload Write
+Time:  10:11:29 - 221ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 377ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.0891250371932983
+Bytes:  4
+Param Data:
+0x00, 	0x0B, 	0x68, 	0x73
+
+
+Safeload Write
+Time:  10:11:29 - 377ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 393ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.0891250371932983
+Bytes:  4
+Param Data:
+0x00, 	0x0B, 	0x68, 	0x73
+
+
+Safeload Write
+Time:  10:11:29 - 393ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.100000023841858
+Bytes:  4
+Param Data:
+0x00, 	0x0C, 	0xCC, 	0xCD
+
+
+Safeload Write
+Time:  10:11:29 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.100000023841858
+Bytes:  4
+Param Data:
+0x00, 	0x0C, 	0xCC, 	0xCD
+
+
+Safeload Write
+Time:  10:11:29 - 690ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.112201809883118
+Bytes:  4
+Param Data:
+0x00, 	0x0E, 	0x5C, 	0xA1
+
+
+Safeload Write
+Time:  10:11:29 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.112201809883118
+Bytes:  4
+Param Data:
+0x00, 	0x0E, 	0x5C, 	0xA1
+
+
+Safeload Write
+Time:  10:11:29 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 830ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.125892519950867
+Bytes:  4
+Param Data:
+0x00, 	0x10, 	0x1D, 	0x3F
+
+
+Safeload Write
+Time:  10:11:29 - 830ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 846ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.125892519950867
+Bytes:  4
+Param Data:
+0x00, 	0x10, 	0x1D, 	0x3F
+
+
+Safeload Write
+Time:  10:11:29 - 846ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 924ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.141253709793091
+Bytes:  4
+Param Data:
+0x00, 	0x12, 	0x14, 	0x9A
+
+
+Safeload Write
+Time:  10:11:29 - 924ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:29 - 924ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.141253709793091
+Bytes:  4
+Param Data:
+0x00, 	0x12, 	0x14, 	0x9A
+
+
+Safeload Write
+Time:  10:11:29 - 924ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 158ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.158489346504211
+Bytes:  4
+Param Data:
+0x00, 	0x14, 	0x49, 	0x61
+
+
+Safeload Write
+Time:  10:11:30 - 158ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 174ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.158489346504211
+Bytes:  4
+Param Data:
+0x00, 	0x14, 	0x49, 	0x61
+
+
+Safeload Write
+Time:  10:11:30 - 174ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.177827954292297
+Bytes:  4
+Param Data:
+0x00, 	0x16, 	0xC3, 	0x11
+
+
+Safeload Write
+Time:  10:11:30 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.177827954292297
+Bytes:  4
+Param Data:
+0x00, 	0x16, 	0xC3, 	0x11
+
+
+Safeload Write
+Time:  10:11:30 - 237ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.199526190757751
+Bytes:  4
+Param Data:
+0x00, 	0x19, 	0x8A, 	0x13
+
+
+Safeload Write
+Time:  10:11:30 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.199526190757751
+Bytes:  4
+Param Data:
+0x00, 	0x19, 	0x8A, 	0x13
+
+
+Safeload Write
+Time:  10:11:30 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 721ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.223872065544128
+Bytes:  4
+Param Data:
+0x00, 	0x1C, 	0xA7, 	0xD7
+
+
+Safeload Write
+Time:  10:11:30 - 721ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 721ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.223872065544128
+Bytes:  4
+Param Data:
+0x00, 	0x1C, 	0xA7, 	0xD7
+
+
+Safeload Write
+Time:  10:11:30 - 721ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.251188635826111
+Bytes:  4
+Param Data:
+0x00, 	0x20, 	0x26, 	0xF3
+
+
+Safeload Write
+Time:  10:11:30 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.251188635826111
+Bytes:  4
+Param Data:
+0x00, 	0x20, 	0x26, 	0xF3
+
+
+Safeload Write
+Time:  10:11:30 - 752ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 940ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.281838297843933
+Bytes:  4
+Param Data:
+0x00, 	0x24, 	0x13, 	0x47
+
+
+Safeload Write
+Time:  10:11:30 - 940ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 940ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.281838297843933
+Bytes:  4
+Param Data:
+0x00, 	0x24, 	0x13, 	0x47
+
+
+Safeload Write
+Time:  10:11:30 - 940ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.316227793693542
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x7A, 	0x27
+
+
+Safeload Write
+Time:  10:11:30 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:30 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.316227793693542
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x7A, 	0x27
+
+
+Safeload Write
+Time:  10:11:30 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 111ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.35481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x6A, 	0x86
+
+
+Safeload Write
+Time:  10:11:31 - 111ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 127ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.35481333732605
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x6A, 	0x86
+
+
+Safeload Write
+Time:  10:11:31 - 127ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 330ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.398107171058655
+Bytes:  4
+Param Data:
+0x00, 	0x32, 	0xF5, 	0x2D
+
+
+Safeload Write
+Time:  10:11:31 - 330ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 330ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.398107171058655
+Bytes:  4
+Param Data:
+0x00, 	0x32, 	0xF5, 	0x2D
+
+
+Safeload Write
+Time:  10:11:31 - 330ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 518ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.446683645248413
+Bytes:  4
+Param Data:
+0x00, 	0x39, 	0x2C, 	0xEE
+
+
+Safeload Write
+Time:  10:11:31 - 518ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 518ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.446683645248413
+Bytes:  4
+Param Data:
+0x00, 	0x39, 	0x2C, 	0xEE
+
+
+Safeload Write
+Time:  10:11:31 - 518ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 596ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.501187205314636
+Bytes:  4
+Param Data:
+0x00, 	0x40, 	0x26, 	0xE7
+
+
+Safeload Write
+Time:  10:11:31 - 596ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 596ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.501187205314636
+Bytes:  4
+Param Data:
+0x00, 	0x40, 	0x26, 	0xE7
+
+
+Safeload Write
+Time:  10:11:31 - 596ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.562341332435608
+Bytes:  4
+Param Data:
+0x00, 	0x47, 	0xFA, 	0xCD
+
+
+Safeload Write
+Time:  10:11:31 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.562341332435608
+Bytes:  4
+Param Data:
+0x00, 	0x47, 	0xFA, 	0xCD
+
+
+Safeload Write
+Time:  10:11:31 - 674ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 799ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.630957365036011
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0xC3, 	0x36
+
+
+Safeload Write
+Time:  10:11:31 - 814ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 814ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.630957365036011
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0xC3, 	0x36
+
+
+Safeload Write
+Time:  10:11:31 - 814ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 908ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x9D, 	0xF8
+
+
+Safeload Write
+Time:  10:11:31 - 908ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 908ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x9D, 	0xF8
+
+
+Safeload Write
+Time:  10:11:31 - 908ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 955ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Safeload Write
+Time:  10:11:31 - 955ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 955ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Safeload Write
+Time:  10:11:31 - 955ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  0.891250967979431
+Bytes:  4
+Param Data:
+0x00, 	0x72, 	0x14, 	0x83
+
+
+Safeload Write
+Time:  10:11:31 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:31 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  0.891250967979431
+Bytes:  4
+Param Data:
+0x00, 	0x72, 	0x14, 	0x83
+
+
+Safeload Write
+Time:  10:11:31 - 971ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:32 - 033ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2target
+Param Address:  0x0005
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:11:32 - 033ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg2step
+Param Address:  0x0006
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+Safeload Write
+Time:  10:11:32 - 033ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4target
+Param Address:  0x0007
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:11:32 - 033ms
+IC:  IC 1
+Cell Name:  SW vol 1
+Param Name:  SWGain1940DBAlg4step
+Param Address:  0x0008
+Param Value:  0.000244140625
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x08, 	0x00
+
+
+

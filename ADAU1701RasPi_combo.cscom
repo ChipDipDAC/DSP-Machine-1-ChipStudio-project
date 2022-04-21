@@ -1,0 +1,19 @@
+#Begin FileDescription
+Version[0.97]
+#End FileDescription
+#Begin ComboSettings
+[Controller;RDC2_0051]
+[ComboType;0]
+[ComboSubType;2]
+[DoNotReboot;False]
+#End ComboSettings
+#Begin ComboParts
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_44_1.cspro]
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_48.cspro]
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_96.cspro]
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_192.cspro]
+[]
+[]
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_88_2.cspro]
+[C:\Users\oleg.tetushkin\Documents\ADAU1701RasPi_combo V2\ADAU1701_RasPi_176_4.cspro]
+#End ComboParts

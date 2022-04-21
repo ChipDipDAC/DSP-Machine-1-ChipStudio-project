@@ -1,0 +1,1681 @@
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.995956778526306
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x7B, 	0x83
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98154401779175
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x5C, 	0xC4
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985641002655029
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x29, 	0x7C
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98148596286774
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xA1, 	0x55
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.981655836105347
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x59, 	0x1A
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.995956778526306
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x7B, 	0x83
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98154401779175
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x5C, 	0xC4
+
+
+Safeload Write
+Time:  15:02:37 - 635ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985641002655029
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x29, 	0x7C
+
+
+Safeload Write
+Time:  15:02:37 - 647ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98148596286774
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xA1, 	0x55
+
+
+Safeload Write
+Time:  15:02:37 - 647ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.981655836105347
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x59, 	0x1A
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.9963698387146
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x89, 	0x0C
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98206293582916
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x4B, 	0xC3
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985750079154968
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x2D, 	0x0F
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9820111989975
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xB2, 	0x8B
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.982171654701233
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x48, 	0x33
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.9963698387146
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x89, 	0x0C
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98206293582916
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x4B, 	0xC3
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985750079154968
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x2D, 	0x0F
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9820111989975
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xB2, 	0x8B
+
+
+Safeload Write
+Time:  15:02:38 - 851ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.982171654701233
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x48, 	0x33
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.996780037879944
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x96, 	0x7D
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98256719112396
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x3B, 	0x3D
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985847473144531
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x30, 	0x40
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98252153396606
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xC3, 	0x44
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.982673048973084
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x37, 	0xC5
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.996780037879944
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0x96, 	0x7D
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98256719112396
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x3B, 	0x3D
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985847473144531
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x30, 	0x40
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98252153396606
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xC3, 	0x44
+
+
+Safeload Write
+Time:  15:02:39 - 523ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.982673048973084
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x37, 	0xC5
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997187733650208
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xA3, 	0xD9
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98305702209473
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x2B, 	0x30
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985933184623718
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x33, 	0x0F
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9830174446106
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xD3, 	0x84
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.983160495758057
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x27, 	0xCC
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997187733650208
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xA3, 	0xD9
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98305702209473
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x2B, 	0x30
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.985933184623718
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x33, 	0x0F
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9830174446106
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xD3, 	0x84
+
+
+Safeload Write
+Time:  15:02:40 - 242ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.983160495758057
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x27, 	0xCC
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997593283653259
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xB1, 	0x23
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98353290557861
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x1B, 	0x98
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986007332801819
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x35, 	0x7D
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98349928855896
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xE3, 	0x4E
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.983634233474731
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x18, 	0x46
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997593283653259
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xB1, 	0x23
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98353290557861
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x1B, 	0x98
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986007332801819
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x35, 	0x7D
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98349928855896
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xE3, 	0x4E
+
+
+Safeload Write
+Time:  15:02:40 - 773ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.983634233474731
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x18, 	0x46
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997997045516968
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xBE, 	0x5E
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98399531841278
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x0C, 	0x71
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986069917678833
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x37, 	0x8A
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98396742343903
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xF2, 	0xA5
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984094858169556
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x09, 	0x2E
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.997997045516968
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xBE, 	0x5E
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98399531841278
+Bytes:  4
+Param Data:
+0xFF, 	0x02, 	0x0C, 	0x71
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986069917678833
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x37, 	0x8A
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98396742343903
+Bytes:  4
+Param Data:
+0x00, 	0xFD, 	0xF2, 	0xA5
+
+
+Safeload Write
+Time:  15:02:41 - 351ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984094858169556
+Bytes:  4
+Param Data:
+0xFF, 	0x82, 	0x09, 	0x2E
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.998399376869202
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xCB, 	0x8D
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98444449901581
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xFD, 	0xB9
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98612105846405
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x39, 	0x37
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98442220687866
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x01, 	0x8C
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984542608261108
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xFA, 	0x82
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.998399376869202
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xCB, 	0x8D
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98444449901581
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xFD, 	0xB9
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98612105846405
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x39, 	0x37
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98442220687866
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x01, 	0x8C
+
+
+Safeload Write
+Time:  15:02:41 - 900ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984542608261108
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xFA, 	0x82
+
+
+Safeload Write
+Time:  15:02:42 - 494ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.99880039691925
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xD8, 	0xB1
+
+
+Safeload Write
+Time:  15:02:42 - 494ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98488080501556
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xEF, 	0x6D
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98616087436676
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3A, 	0x85
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98486423492432
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x10, 	0x08
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984977841377258
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xEC, 	0x3F
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.99880039691925
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xD8, 	0xB1
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98488080501556
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xEF, 	0x6D
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98616087436676
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3A, 	0x85
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98486423492432
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x10, 	0x08
+
+
+Safeload Write
+Time:  15:02:42 - 510ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.984977841377258
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xEC, 	0x3F
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.999200701713562
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xE5, 	0xCF
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98530459403992
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xE1, 	0x8A
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986189246177673
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3B, 	0x73
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98529362678528
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x1E, 	0x1A
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.985400915145874
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xDE, 	0x62
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.999200701713562
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xE5, 	0xCF
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98530459403992
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xE1, 	0x8A
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986189246177673
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3B, 	0x73
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98529362678528
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x1E, 	0x1A
+
+
+Safeload Write
+Time:  15:02:42 - 869ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.985400915145874
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xDE, 	0x62
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.999600410461426
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xF2, 	0xE8
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98571634292603
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xD4, 	0x0C
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986206293106079
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x02
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98571085929871
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x2B, 	0xC6
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.985812187194824
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xD0, 	0xE8
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  0.999600410461426
+Bytes:  4
+Param Data:
+0x00, 	0x7F, 	0xF2, 	0xE8
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98571634292603
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xD4, 	0x0C
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986206293106079
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x02
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98571085929871
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x2B, 	0xC6
+
+
+Safeload Write
+Time:  15:02:43 - 557ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.985812187194824
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xD0, 	0xE8
+
+
+Safeload Write
+Time:  15:02:44 - 166ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  15:02:44 - 166ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98611617088318
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xC6, 	0xF2
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986211895942688
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x31
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98611617088318
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x39, 	0x0E
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.986211895942688
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xC3, 	0xCF
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98611617088318
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xC6, 	0xF2
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986211895942688
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x31
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98611617088318
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x39, 	0x0E
+
+
+Safeload Write
+Time:  15:02:44 - 182ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.986211895942688
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xC3, 	0xCF
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00039970874786
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x0D, 	0x19
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98650455474854
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xBA, 	0x38
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986206293106079
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x02
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98651015758514
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x45, 	0xF7
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.986600518226624
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xB7, 	0x13
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00039970874786
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x0D, 	0x19
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98650455474854
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xBA, 	0x38
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986206293106079
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3C, 	0x02
+
+
+Safeload Write
+Time:  15:02:44 - 838ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98651015758514
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x45, 	0xF7
+
+
+Safeload Write
+Time:  15:02:44 - 854ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.986600518226624
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xB7, 	0x13
+
+
+Safeload Write
+Time:  15:02:45 - 698ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00080001354218
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x1A, 	0x37
+
+
+Safeload Write
+Time:  15:02:45 - 698ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98688173294067
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xAD, 	0xDC
+
+
+Safeload Write
+Time:  15:02:45 - 698ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986189246177673
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3B, 	0x73
+
+
+Safeload Write
+Time:  15:02:45 - 698ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9868928194046
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x52, 	0x81
+
+
+Safeload Write
+Time:  15:02:45 - 698ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.98697817325592
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xAA, 	0xB3
+
+
+Safeload Write
+Time:  15:02:45 - 714ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00080001354218
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x1A, 	0x37
+
+
+Safeload Write
+Time:  15:02:45 - 714ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98688173294067
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xAD, 	0xDC
+
+
+Safeload Write
+Time:  15:02:45 - 714ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.986189246177673
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3B, 	0x73
+
+
+Safeload Write
+Time:  15:02:45 - 714ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.9868928194046
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x52, 	0x81
+
+
+Safeload Write
+Time:  15:02:45 - 714ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.98697817325592
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0xAA, 	0xB3
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00120103359222
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x27, 	0x5B
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98724806308746
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xA1, 	0xDB
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98616087436676
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3A, 	0x85
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98726463317871
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x5E, 	0xB0
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.987345218658447
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0x9E, 	0xAC
+
+
+Safeload Write
+Time:  15:02:46 - 354ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual10B1
+Param Address:  0x000D
+Param Value:  1.00120103359222
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x27, 	0x5B
+
+
+Safeload Write
+Time:  15:02:46 - 370ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11B1
+Param Address:  0x000E
+Param Value:  -1.98724806308746
+Bytes:  4
+Param Data:
+0xFF, 	0x01, 	0xA1, 	0xDB
+
+
+Safeload Write
+Time:  15:02:46 - 370ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12B1
+Param Address:  0x000F
+Param Value:  0.98616087436676
+Bytes:  4
+Param Data:
+0x00, 	0x7E, 	0x3A, 	0x85
+
+
+Safeload Write
+Time:  15:02:46 - 370ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual11A1
+Param Address:  0x0010
+Param Value:  1.98726463317871
+Bytes:  4
+Param Data:
+0x00, 	0xFE, 	0x5E, 	0xB0
+
+
+Safeload Write
+Time:  15:02:46 - 370ms
+IC:  IC 1
+Cell Name:  LP EQ
+Param Name:  EQ1940Dual12A1
+Param Address:  0x0011
+Param Value:  -0.987345218658447
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0x9E, 	0xAC
+
+
+

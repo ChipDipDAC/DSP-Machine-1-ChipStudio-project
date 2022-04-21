@@ -1,0 +1,25 @@
+Block Write
+Time:  11:24:29 - 123ms
+IC:  IC 1
+Cell Name:  Mute1
+Param Name:  MuteNoSlewAlg1mute
+Param Address:  0x0000
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  11:24:30 - 350ms
+IC:  IC 1
+Cell Name:  Mute1
+Param Name:  MuteNoSlewAlg1mute
+Param Address:  0x0000
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+

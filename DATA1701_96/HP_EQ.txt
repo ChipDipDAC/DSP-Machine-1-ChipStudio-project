@@ -1,0 +1,1681 @@
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.361231565475464
+Bytes:  4
+Param Data:
+0x00, 	0x2E, 	0x3C, 	0xD6
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.505535006523132
+Bytes:  4
+Param Data:
+0xFF, 	0xBF, 	0x4A, 	0xA1
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.195809364318848
+Bytes:  4
+Param Data:
+0x00, 	0x19, 	0x10, 	0x48
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.65432715415955
+Bytes:  4
+Param Data:
+0x00, 	0xD3, 	0xC0, 	0xFE
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.705833077430725
+Bytes:  4
+Param Data:
+0xFF, 	0xA5, 	0xA7, 	0x43
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.361231565475464
+Bytes:  4
+Param Data:
+0x00, 	0x2E, 	0x3C, 	0xD6
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.505535006523132
+Bytes:  4
+Param Data:
+0xFF, 	0xBF, 	0x4A, 	0xA1
+
+
+Safeload Write
+Time:  15:03:39 - 042ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.195809364318848
+Bytes:  4
+Param Data:
+0x00, 	0x19, 	0x10, 	0x48
+
+
+Safeload Write
+Time:  15:03:39 - 046ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.65432715415955
+Bytes:  4
+Param Data:
+0x00, 	0xD3, 	0xC0, 	0xFE
+
+
+Safeload Write
+Time:  15:03:39 - 046ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.705833077430725
+Bytes:  4
+Param Data:
+0xFF, 	0xA5, 	0xA7, 	0x43
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.399844884872437
+Bytes:  4
+Param Data:
+0x00, 	0x33, 	0x2E, 	0x1E
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.565973281860352
+Bytes:  4
+Param Data:
+0xFF, 	0xB7, 	0x8E, 	0x30
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.220411777496338
+Bytes:  4
+Param Data:
+0x00, 	0x1C, 	0x36, 	0x74
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.64448356628418
+Bytes:  4
+Param Data:
+0x00, 	0xD2, 	0x7E, 	0x70
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.698766827583313
+Bytes:  4
+Param Data:
+0xFF, 	0xA6, 	0x8E, 	0xCF
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.399844884872437
+Bytes:  4
+Param Data:
+0x00, 	0x33, 	0x2E, 	0x1E
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.565973281860352
+Bytes:  4
+Param Data:
+0xFF, 	0xB7, 	0x8E, 	0x30
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.220411777496338
+Bytes:  4
+Param Data:
+0x00, 	0x1C, 	0x36, 	0x74
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.64448356628418
+Bytes:  4
+Param Data:
+0x00, 	0xD2, 	0x7E, 	0x70
+
+
+Safeload Write
+Time:  15:03:40 - 125ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.698766827583313
+Bytes:  4
+Param Data:
+0xFF, 	0xA6, 	0x8E, 	0xCF
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.442623019218445
+Bytes:  4
+Param Data:
+0x00, 	0x38, 	0xA7, 	0xDF
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.633440732955933
+Bytes:  4
+Param Data:
+0xFF, 	0xAE, 	0xEB, 	0x6A
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.248020052909851
+Bytes:  4
+Param Data:
+0x00, 	0x1F, 	0xBF, 	0x1F
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.63437294960022
+Bytes:  4
+Param Data:
+0x00, 	0xD1, 	0x33, 	0x22
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.691575169563293
+Bytes:  4
+Param Data:
+0xFF, 	0xA7, 	0x7A, 	0x77
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.442623019218445
+Bytes:  4
+Param Data:
+0x00, 	0x38, 	0xA7, 	0xDF
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.633440732955933
+Bytes:  4
+Param Data:
+0xFF, 	0xAE, 	0xEB, 	0x6A
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.248020052909851
+Bytes:  4
+Param Data:
+0x00, 	0x1F, 	0xBF, 	0x1F
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.63437294960022
+Bytes:  4
+Param Data:
+0x00, 	0xD1, 	0x33, 	0x22
+
+
+Safeload Write
+Time:  15:03:40 - 672ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.691575169563293
+Bytes:  4
+Param Data:
+0xFF, 	0xA7, 	0x7A, 	0x77
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.490014314651489
+Bytes:  4
+Param Data:
+0x00, 	0x3E, 	0xB8, 	0xCA
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.708735346794128
+Bytes:  4
+Param Data:
+0xFF, 	0xA5, 	0x48, 	0x29
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.278990268707275
+Bytes:  4
+Param Data:
+0x00, 	0x23, 	0xB5, 	0xF4
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.62398910522461
+Bytes:  4
+Param Data:
+0x00, 	0xCF, 	0xDE, 	0xE0
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.684258341789246
+Bytes:  4
+Param Data:
+0xFF, 	0xA8, 	0x6A, 	0x39
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.490014314651489
+Bytes:  4
+Param Data:
+0x00, 	0x3E, 	0xB8, 	0xCA
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.708735346794128
+Bytes:  4
+Param Data:
+0xFF, 	0xA5, 	0x48, 	0x29
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.278990268707275
+Bytes:  4
+Param Data:
+0x00, 	0x23, 	0xB5, 	0xF4
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.62398910522461
+Bytes:  4
+Param Data:
+0x00, 	0xCF, 	0xDE, 	0xE0
+
+
+Safeload Write
+Time:  15:03:40 - 938ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.684258341789246
+Bytes:  4
+Param Data:
+0xFF, 	0xA8, 	0x6A, 	0x39
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.542515158653259
+Bytes:  4
+Param Data:
+0x00, 	0x45, 	0x71, 	0x23
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.792743325233459
+Bytes:  4
+Param Data:
+0xFF, 	0x9A, 	0x87, 	0x63
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.313719153404236
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x27, 	0xF3
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.61332595348358
+Bytes:  4
+Param Data:
+0x00, 	0xCE, 	0x81, 	0x77
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.676816940307617
+Bytes:  4
+Param Data:
+0xFF, 	0xA9, 	0x5E, 	0x10
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.542515158653259
+Bytes:  4
+Param Data:
+0x00, 	0x45, 	0x71, 	0x23
+
+
+Safeload Write
+Time:  15:03:41 - 720ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.792743325233459
+Bytes:  4
+Param Data:
+0xFF, 	0x9A, 	0x87, 	0x63
+
+
+Safeload Write
+Time:  15:03:41 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.313719153404236
+Bytes:  4
+Param Data:
+0x00, 	0x28, 	0x27, 	0xF3
+
+
+Safeload Write
+Time:  15:03:41 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.61332595348358
+Bytes:  4
+Param Data:
+0x00, 	0xCE, 	0x81, 	0x77
+
+
+Safeload Write
+Time:  15:03:41 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.676816940307617
+Bytes:  4
+Param Data:
+0xFF, 	0xA9, 	0x5E, 	0x10
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.600674748420715
+Bytes:  4
+Param Data:
+0x00, 	0x4C, 	0xE2, 	0xE9
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.886448621749878
+Bytes:  4
+Param Data:
+0xFF, 	0x8E, 	0x88, 	0xDA
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.352648496627808
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x23, 	0x96
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.60237693786621
+Bytes:  4
+Param Data:
+0x00, 	0xCD, 	0x1A, 	0xB0
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.669251561164856
+Bytes:  4
+Param Data:
+0xFF, 	0xAA, 	0x55, 	0xF7
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.600674748420715
+Bytes:  4
+Param Data:
+0x00, 	0x4C, 	0xE2, 	0xE9
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.886448621749878
+Bytes:  4
+Param Data:
+0xFF, 	0x8E, 	0x88, 	0xDA
+
+
+Safeload Write
+Time:  15:03:42 - 204ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.352648496627808
+Bytes:  4
+Param Data:
+0x00, 	0x2D, 	0x23, 	0x96
+
+
+Safeload Write
+Time:  15:03:42 - 219ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.60237693786621
+Bytes:  4
+Param Data:
+0x00, 	0xCD, 	0x1A, 	0xB0
+
+
+Safeload Write
+Time:  15:03:42 - 219ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.669251561164856
+Bytes:  4
+Param Data:
+0xFF, 	0xAA, 	0x55, 	0xF7
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.665100336074829
+Bytes:  4
+Param Data:
+0x00, 	0x55, 	0x22, 	0x02
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.990943431854248
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0x28, 	0xC4
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.396270394325256
+Bytes:  4
+Param Data:
+0x00, 	0x32, 	0xB8, 	0xFD
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.59113574028015
+Bytes:  4
+Param Data:
+0x00, 	0xCB, 	0xAA, 	0x56
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.661563158035278
+Bytes:  4
+Param Data:
+0xFF, 	0xAB, 	0x51, 	0xE6
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.665100336074829
+Bytes:  4
+Param Data:
+0x00, 	0x55, 	0x22, 	0x02
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -0.990943431854248
+Bytes:  4
+Param Data:
+0xFF, 	0x81, 	0x28, 	0xC4
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.396270394325256
+Bytes:  4
+Param Data:
+0x00, 	0x32, 	0xB8, 	0xFD
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.59113574028015
+Bytes:  4
+Param Data:
+0x00, 	0xCB, 	0xAA, 	0x56
+
+
+Safeload Write
+Time:  15:03:42 - 501ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.661563158035278
+Bytes:  4
+Param Data:
+0xFF, 	0xAB, 	0x51, 	0xE6
+
+
+Safeload Write
+Time:  15:03:42 - 985ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.73646342754364
+Bytes:  4
+Param Data:
+0x00, 	0x5E, 	0x44, 	0x6F
+
+
+Safeload Write
+Time:  15:03:42 - 985ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.10743951797485
+Bytes:  4
+Param Data:
+0xFF, 	0x72, 	0x3F, 	0x6C
+
+
+Safeload Write
+Time:  15:03:42 - 985ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.445132732391357
+Bytes:  4
+Param Data:
+0x00, 	0x38, 	0xFA, 	0x1C
+
+
+Safeload Write
+Time:  15:03:42 - 985ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.57959604263306
+Bytes:  4
+Param Data:
+0x00, 	0xCA, 	0x30, 	0x34
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.653752684593201
+Bytes:  4
+Param Data:
+0xFF, 	0xAC, 	0x51, 	0xD5
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.73646342754364
+Bytes:  4
+Param Data:
+0x00, 	0x5E, 	0x44, 	0x6F
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.10743951797485
+Bytes:  4
+Param Data:
+0xFF, 	0x72, 	0x3F, 	0x6C
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.445132732391357
+Bytes:  4
+Param Data:
+0x00, 	0x38, 	0xFA, 	0x1C
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.57959604263306
+Bytes:  4
+Param Data:
+0x00, 	0xCA, 	0x30, 	0x34
+
+
+Safeload Write
+Time:  15:03:43 - 000ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.653752684593201
+Bytes:  4
+Param Data:
+0xFF, 	0xAC, 	0x51, 	0xD5
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.815506458282471
+Bytes:  4
+Param Data:
+0x00, 	0x68, 	0x62, 	0x84
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.2372807264328
+Bytes:  4
+Param Data:
+0xFF, 	0x61, 	0xA0, 	0xC9
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.499844670295715
+Bytes:  4
+Param Data:
+0x00, 	0x3F, 	0xFA, 	0xE9
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.56775140762329
+Bytes:  4
+Param Data:
+0x00, 	0xC8, 	0xAC, 	0x14
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.645821690559387
+Bytes:  4
+Param Data:
+0xFF, 	0xAD, 	0x55, 	0xB7
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.815506458282471
+Bytes:  4
+Param Data:
+0x00, 	0x68, 	0x62, 	0x84
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.2372807264328
+Bytes:  4
+Param Data:
+0xFF, 	0x61, 	0xA0, 	0xC9
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.499844670295715
+Bytes:  4
+Param Data:
+0x00, 	0x3F, 	0xFA, 	0xE9
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.56775140762329
+Bytes:  4
+Param Data:
+0x00, 	0xC8, 	0xAC, 	0x14
+
+
+Safeload Write
+Time:  15:03:43 - 422ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.645821690559387
+Bytes:  4
+Param Data:
+0xFF, 	0xAD, 	0x55, 	0xB7
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.90304970741272
+Bytes:  4
+Param Data:
+0x00, 	0x73, 	0x97, 	0x22
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.38195741176605
+Bytes:  4
+Param Data:
+0xFF, 	0x4F, 	0x1C, 	0x05
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.561083912849426
+Bytes:  4
+Param Data:
+0x00, 	0x47, 	0xD1, 	0x99
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.55559515953064
+Bytes:  4
+Param Data:
+0x00, 	0xC7, 	0x1D, 	0xBE
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.637771487236023
+Bytes:  4
+Param Data:
+0xFF, 	0xAE, 	0x5D, 	0x81
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  0.90304970741272
+Bytes:  4
+Param Data:
+0x00, 	0x73, 	0x97, 	0x22
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.38195741176605
+Bytes:  4
+Param Data:
+0xFF, 	0x4F, 	0x1C, 	0x05
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.561083912849426
+Bytes:  4
+Param Data:
+0x00, 	0x47, 	0xD1, 	0x99
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.55559515953064
+Bytes:  4
+Param Data:
+0x00, 	0xC7, 	0x1D, 	0xBE
+
+
+Safeload Write
+Time:  15:03:43 - 875ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.637771487236023
+Bytes:  4
+Param Data:
+0xFF, 	0xAE, 	0x5D, 	0x81
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.54312109947205
+Bytes:  4
+Param Data:
+0xFF, 	0x3A, 	0x7B, 	0x02
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.629603981971741
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0x96, 	0xDD
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.54312109947205
+Bytes:  4
+Param Data:
+0x00, 	0xC5, 	0x84, 	0xFE
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.629603981971741
+Bytes:  4
+Param Data:
+0xFF, 	0xAF, 	0x69, 	0x23
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.54312109947205
+Bytes:  4
+Param Data:
+0xFF, 	0x3A, 	0x7B, 	0x02
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.629603981971741
+Bytes:  4
+Param Data:
+0x00, 	0x50, 	0x96, 	0xDD
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.54312109947205
+Bytes:  4
+Param Data:
+0x00, 	0xC5, 	0x84, 	0xFE
+
+
+Safeload Write
+Time:  15:03:44 - 485ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.629603981971741
+Bytes:  4
+Param Data:
+0xFF, 	0xAF, 	0x69, 	0x23
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.10735869407654
+Bytes:  4
+Param Data:
+0x00, 	0x8D, 	0xBD, 	0xEE
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.72260200977325
+Bytes:  4
+Param Data:
+0xFF, 	0x23, 	0x81, 	0xC7
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.706241846084595
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x66, 	0x22
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.53032255172729
+Bytes:  4
+Param Data:
+0x00, 	0xC3, 	0xE1, 	0x9C
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.621321201324463
+Bytes:  4
+Param Data:
+0xFF, 	0xB0, 	0x78, 	0x8C
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.10735869407654
+Bytes:  4
+Param Data:
+0x00, 	0x8D, 	0xBD, 	0xEE
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.72260200977325
+Bytes:  4
+Param Data:
+0xFF, 	0x23, 	0x81, 	0xC7
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.706241846084595
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x66, 	0x22
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.53032255172729
+Bytes:  4
+Param Data:
+0x00, 	0xC3, 	0xE1, 	0x9C
+
+
+Safeload Write
+Time:  15:03:44 - 860ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.621321201324463
+Bytes:  4
+Param Data:
+0xFF, 	0xB0, 	0x78, 	0x8C
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.22623193264008
+Bytes:  4
+Param Data:
+0x00, 	0x9C, 	0xF5, 	0x2B
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.92242681980133
+Bytes:  4
+Param Data:
+0xFF, 	0x09, 	0xED, 	0xEB
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.791927099227905
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0x5D, 	0xDE
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.51719319820404
+Bytes:  4
+Param Data:
+0x00, 	0xC2, 	0x33, 	0x63
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.612925410270691
+Bytes:  4
+Param Data:
+0xFF, 	0xB1, 	0x8B, 	0xA9
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.22623193264008
+Bytes:  4
+Param Data:
+0x00, 	0x9C, 	0xF5, 	0x2B
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -1.92242681980133
+Bytes:  4
+Param Data:
+0xFF, 	0x09, 	0xED, 	0xEB
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.791927099227905
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0x5D, 	0xDE
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.51719319820404
+Bytes:  4
+Param Data:
+0x00, 	0xC2, 	0x33, 	0x63
+
+
+Safeload Write
+Time:  15:03:45 - 329ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.612925410270691
+Bytes:  4
+Param Data:
+0xFF, 	0xB1, 	0x8B, 	0xA9
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.35784065723419
+Bytes:  4
+Param Data:
+0x00, 	0xAD, 	0xCD, 	0xB9
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -2.14483964443207
+Bytes:  4
+Param Data:
+0xFE, 	0xED, 	0x75, 	0xE5
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.887691974639893
+Bytes:  4
+Param Data:
+0x00, 	0x71, 	0x9F, 	0xE4
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.50372624397278
+Bytes:  4
+Param Data:
+0x00, 	0xC0, 	0x7A, 	0x1A
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.604419231414795
+Bytes:  4
+Param Data:
+0xFF, 	0xB2, 	0xA2, 	0x64
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual20B1
+Param Address:  0x0012
+Param Value:  1.35784065723419
+Bytes:  4
+Param Data:
+0x00, 	0xAD, 	0xCD, 	0xB9
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21B1
+Param Address:  0x0013
+Param Value:  -2.14483964443207
+Bytes:  4
+Param Data:
+0xFE, 	0xED, 	0x75, 	0xE5
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22B1
+Param Address:  0x0014
+Param Value:  0.887691974639893
+Bytes:  4
+Param Data:
+0x00, 	0x71, 	0x9F, 	0xE4
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual21A1
+Param Address:  0x0015
+Param Value:  1.50372624397278
+Bytes:  4
+Param Data:
+0x00, 	0xC0, 	0x7A, 	0x1A
+
+
+Safeload Write
+Time:  15:03:45 - 735ms
+IC:  IC 1
+Cell Name:  HP EQ
+Param Name:  EQ1940Dual22A1
+Param Address:  0x0016
+Param Value:  -0.604419231414795
+Bytes:  4
+Param Data:
+0xFF, 	0xB2, 	0xA2, 	0x64
+
+
+

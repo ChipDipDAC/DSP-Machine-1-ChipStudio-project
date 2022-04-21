@@ -1,0 +1,25 @@
+Block Write
+Time:  15:06:39 - 193ms
+IC:  IC 1
+Cell Name:  SuperBass1
+Param Name:  SuperBassAlgSWSlew1bypass
+Param Address:  0x003F
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+Block Write
+Time:  15:06:40 - 134ms
+IC:  IC 1
+Cell Name:  SuperBass1
+Param Name:  SuperBassAlgSWSlew1bypass
+Param Address:  0x003F
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+

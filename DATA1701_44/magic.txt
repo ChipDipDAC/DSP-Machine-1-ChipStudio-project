@@ -1,0 +1,49 @@
+Safeload Write
+Time:  10:22:34 - 544ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemux1940ns10
+Param Address:  0x000D
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:22:34 - 544ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemux1940ns11
+Param Address:  0x000E
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:22:35 - 768ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemux1940ns10
+Param Address:  0x000D
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Safeload Write
+Time:  10:22:35 - 768ms
+IC:  IC 1
+Cell Name:  2xN-1
+Param Name:  stereoDemux1940ns11
+Param Address:  0x000E
+Param Value:  0
+Bytes:  4
+Param Data:
+0x00, 	0x00, 	0x00, 	0x00
+
+
+
